@@ -1,4 +1,4 @@
 ``
-Learning redux
+Learning redux <br>
 Course: Programming Hero
 ``
